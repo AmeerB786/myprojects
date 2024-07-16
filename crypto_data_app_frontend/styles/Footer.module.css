@@ -1,0 +1,12 @@
+
+.a {
+  color: #fea49f;
+  text-decoration: none;
+  text-shadow: 5px 5px 5px #000;
+  transition: 0.5s;
+}
+
+.a:hover {
+  text-shadow: 1px 1px 1px #fea49f;
+  transition: 0.5s;
+}

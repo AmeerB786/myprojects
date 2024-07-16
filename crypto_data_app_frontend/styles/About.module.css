@@ -1,0 +1,19 @@
+.section {
+  margin: 25vh 1vw;
+  font-size: 2.0rem;
+  margin-left: 15%;
+}
+
+.ul li {
+  margin: 20% 0;
+}
+
+.a {
+  color: rgb(208, 8, 171);
+  text-decoration: none;
+}
+
+.a:hover {
+  color: rgb(8, 212, 212);
+  text-decoration: underline;
+}

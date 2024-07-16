@@ -1,0 +1,21 @@
+.section {
+  margin: 25vh 1vw;
+  font-size: 2.0rem;
+  margin-left: 15%;
+}
+
+.ul li {
+  margin: 20% 0;
+}
+
+.a {
+  color: cyan;
+  text-decoration: none;
+  font-style: italic;
+}
+
+.a:hover {
+  color: cyan;
+  text-decoration: underline;
+}
+
